@@ -1,0 +1,6 @@
+{
+  "name": "Pascawildafrica – Kenya Safari Tours & Excursions",
+  "description": "Discover authentic African wildlife safaris, Tsavo East adventures, and Watamu coastal excursions guided personally by Pascal in Kenya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
